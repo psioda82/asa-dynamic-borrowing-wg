@@ -1,0 +1,28 @@
+---
+title: "ASA BIOP Dynamic Borrowing Working Group"
+---
+
+::: {.callout-note}
+This is a **prototype** site. Content below is placeholder text to be replaced by the working group.
+:::
+
+## About
+
+The Dynamic Borrowing Working Group, part of the American Statistical Association Biopharmaceutical Section (ASA BIOP), brings together statisticians from industry, academia, and regulatory agencies to advance the principled use of external and historical information in clinical trials.
+
+## Objectives
+
+- Clarify terminology and the methodological landscape for dynamic borrowing (e.g., power priors, commensurate priors, robust mixture priors, Bayesian hierarchical models).
+- Share practical guidance on design, operating-characteristic assessment, and regulatory interaction.
+- Curate open-source software and case studies.
+- Publish white papers and present at scientific meetings.
+
+## Get involved
+
+To join, contact the working group chairs (see [Members](members.qmd)) or open an issue in the GitHub repository.
+
+## Latest updates
+
+| Date | Update |
+|------|--------|
+| 2026-11 | Prototype website launched |

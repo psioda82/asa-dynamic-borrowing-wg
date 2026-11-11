@@ -1,0 +1,35 @@
+---
+title: "Resources & Document Library"
+---
+
+Public materials are stored in the repository's `docs/` folder and linked below. Files committed here are **publicly visible** if the repository is public.
+
+::: {.callout-warning}
+Do not post confidential, pre-publication, or sponsor-restricted material in this repository. Use a separate private repository for members-only documents.
+:::
+
+## Papers & white papers
+
+| Title | Authors | Year | Link |
+|-------|---------|------|------|
+| Sample document (placeholder) | WG members | 2026 | [PDF](docs/papers/sample.md) |
+
+## Software
+
+| Package | Language | Description | Link |
+|---------|----------|-------------|------|
+| *Add entries* | R / SAS / Stan | | |
+
+## Case studies
+
+*Add entries.*
+
+## Slides & webinars
+
+*Add entries.*
+
+## Adding documents
+
+1. Place the file in the matching `docs/` subfolder (`papers`, `software`, `case-studies`, `slides`).
+2. Add a row to the table above.
+3. Commit and push; the site rebuilds automatically.

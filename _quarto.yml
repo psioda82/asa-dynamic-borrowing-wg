@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "docs/**/*.pdf"
+    - "docs/**/*.zip"
+
+website:
+  title: "ASA BIOP Dynamic Borrowing Working Group"
+  description: "Methods, software, and case studies for dynamic borrowing in clinical trials"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: members.qmd
+        text: Members
+      - href: meetings.qmd
+        text: Meetings
+      - href: resources.qmd
+        text: Resources
+    right:
+      - icon: github
+        href: https://github.com/psioda82/asa-dynamic-borrowing-wg
+        aria-label: GitHub repository
+  page-footer:
+    center: "ASA Biopharmaceutical Section (BIOP) Dynamic Borrowing Working Group · Prototype site"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

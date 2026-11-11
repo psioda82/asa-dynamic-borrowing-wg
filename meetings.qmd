@@ -1,0 +1,17 @@
+---
+title: "Meetings & Events"
+---
+
+## Upcoming
+
+| Date | Event | Details |
+|------|-------|---------|
+| *TBD* | Monthly working group call | Agenda to be posted one week ahead |
+
+## Archive
+
+| Date | Agenda | Minutes |
+|------|--------|---------|
+| 2026-11-01 | [Kickoff agenda](meetings/2026-11-01-agenda.md) | [Kickoff minutes](meetings/2026-11-01-minutes.md) |
+
+Add new meeting notes as Markdown files in the `meetings/` folder and link them here.

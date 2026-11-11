@@ -1,0 +1,23 @@
+---
+title: "Members & Leadership"
+---
+
+## Leadership
+
+| Role | Name | Affiliation |
+|------|------|-------------|
+| Chair | *TBD* | *TBD* |
+| Co-chair | *TBD* | *TBD* |
+
+## Subteams
+
+| Subteam | Focus | Lead |
+|---------|-------|------|
+| Methods | Taxonomy and comparison of borrowing methods | *TBD* |
+| Software | Open-source tools and reproducible examples | *TBD* |
+| Case studies | Real-world applications and regulatory experience | *TBD* |
+| Communications | Website, webinars, conference sessions | *TBD* |
+
+## Members
+
+Member roster to be added. Members can add themselves by submitting a pull request editing this file.
